@@ -1,0 +1,38 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/Users/sushantksah/Documents/cp164/.metadata/.plugins/org.eclipse.core.resources/.projects/sahx0628_a08/com.python.pydev.analysis/v2_indexcache
+functions|1710646415756127400|/Users/sushantksah/Documents/cp164/sahx0628_a08/src/functions.py
+t01|1710646142253280744|/Users/sushantksah/Documents/cp164/sahx0628_a08/src/t01.py
+t03|1710647907836917392|/Users/sushantksah/Documents/cp164/sahx0628_a08/src/t03.py
+t02|1710648061272780523|/Users/sushantksah/Documents/cp164/sahx0628_a08/src/t02.py
+-- END DISKCACHE
+-- START DICTIONARY
+8
+4=functions
+8=t01
+6=t03
+2=t02
+7=/Users/sushantksah/Documents/cp164/sahx0628_a08/src/t01.py
+1=/Users/sushantksah/Documents/cp164/sahx0628_a08/src/t02.py
+5=/Users/sushantksah/Documents/cp164/sahx0628_a08/src/t03.py
+3=/Users/sushantksah/Documents/cp164/sahx0628_a08/src/functions.py
+-- END DICTIONARY
+-- START TREE 1
+13
+bst|3|bst2!1^23#1*19@bst3!1^24#1*19@bst1!1^22#1*19@
+com|1|comparison_total!3^86#5*34@
+dat|6|DATA3!1^19#1*19@DATA1!1^17#1*19@DATA3!5^18#1*51@DATA1!5^16#1*51@DATA2!1^18#1*19@DATA2!5^17#1*51@
+do_|1|do_comparisons!3^16#5*34@
+fil|1|fill_tree!1^29#5*18@
+fn|1|fn!1^42#1*19@
+fv|1|fv!1^43#1*19@
+let|1|letter_table!3^55#5*34@
+t1|1|t1!1^45#1*19@
+t2|1|t2!1^48#1*19@
+t3|1|t3!1^51#1*19@
+tre|2|tree!7^14#1*67@tree2!7^20#1*67@
+val|1|values!7^15#1*67@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

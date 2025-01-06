@@ -1,0 +1,103 @@
+"""
+-------------------------------------------------------
+Assignment 6 Testing 
+-------------------------------------------------------
+Author:  Sushant Sah
+ID:      169060628
+Email:   sahx0628@mylaurier.ca
+Version: 2024-01-12
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+is empty? False
+is empty? False
+
+Peeking at Queue1: 1
+Front value of Queue2: 1
+
+Removed out of Queue1: 1
+Removed out of Queue2: 1
+
+Queue3 after combining Queue1 and Queue2:
+2 2 3 3 4 4 5 5 6 6 7 8 
+
+Queue1 after splitting Queue3:
+2 3 4 5 6 7 
+Queue2 after splitting Queue3:
+2 3 4 5 6 8 
+
+Length of Queue1: 6
+Length of Queue2: 6
+Queue1 after appending Queue2:
+2 3 4 5 6 7 2 3 4 5 6 8 
+
+Is Queue1 equal to new_queue? False
+
+Is Queue1 equal to new_queue after appending? False
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Removed value: 1
+
+Peeked value: 1
+
+Is empty?: False
+
+Length?: 9
+
+t1 after split_alt: [1, 3, 4, 11, 13, 23]
+t2 after split_alt: [1, 4, 4, 13, 13]
+
+t3 after split_key with key = 20): [5, 10, 15]
+t4 after split_key (key = 20): [20, 25]
+
+combined_pq after combining numba1 and target4: [1, 1, 3, 4, 5, 5, 11, 13, 20, 25, 34]
+
+Iterating through combined_pq:
+1
+1
+3
+4
+5
+5
+11
+13
+20
+25
+34
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Deque after inserting values at rear:
+1 9 99 11 19 
+
+Deque after inserting values at front:
+-11 0 -23 -14 0 1 9 99 11 19 
+
+Removed from front: -11 and Removed from rear: 19
+
+Peek front: 0, Peek rear: 11
+
+Is empty???? False
+
+Length: 8
+
+Are equal??? False
+
+Iterating through the deque:
+0 -23 -14 0 1 9 99 11 
+
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t06
+-------------------------------------------------------
+
+
+-------------------------------------------------------

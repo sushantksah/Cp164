@@ -1,0 +1,21 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/Users/sushantksah/Documents/cp164/.metadata/.plugins/org.eclipse.core.resources/.projects/sahx0628_l09/com.python.pydev.analysis/v2_indexcache
+functions|1710595132273849807|/Users/sushantksah/Documents/cp164/sahx0628_l09/src/functions.py
+t01|1710594664647952970|/Users/sushantksah/Documents/cp164/sahx0628_l09/src/t01.py
+-- END DISKCACHE
+-- START DICTIONARY
+4
+3=/Users/sushantksah/Documents/cp164/sahx0628_l09/src/functions.py
+2=t01
+4=functions
+1=/Users/sushantksah/Documents/cp164/sahx0628_l09/src/t01.py
+-- END DICTIONARY
+-- START TREE 1
+2
+foo|4|food2!1^16#1*19@food1!1^15#1*19@food3!1^17#1*19@foods!1^19#1*19@
+has|1|hash_table!3^14#5*34@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

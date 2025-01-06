@@ -1,0 +1,117 @@
+"""
+-------------------------------------------------------
+Assignment 03 Testing 
+-------------------------------------------------------
+Author:  Sushant Sah
+ID:      169060628
+Email:   sahx0628@mylaurier.ca
+Version: 2024-01-21
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Instance 1: 
+Natto
+Sushi
+
+Instance 2:
+Natto
+Sushi
+
+Instance 3: 
+Natto
+Sushi
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Instance 1: 
+Average Calories: 261
+
+Instance 2:
+Average Calories: 261
+
+Instance 3:
+Average Calories: 261
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Instance 1: 
+Average Calories for Origin 6: 256.0
+
+Instance 2: 
+Average Calories for Origin 6: 256.0
+
+Instance 3: 
+Average Calories for Origin 6: 256.0
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Instance 1: 
+Food                                Origin       Vegetarian Calories
+----------------------------------- ------------ ---------- --------
+Canada Goose Chili                  Canadian     False      199
+Spanakopita                         Greek        True       260
+
+Instance 2:
+Food                                Origin       Vegetarian Calories
+----------------------------------- ------------ ---------- --------
+Canada Goose Chili                  Canadian     False      199
+Spanakopita                         Greek        True       260
+
+Instance 3: 
+Food                                Origin       Vegetarian Calories
+----------------------------------- ------------ ---------- --------
+Canada Goose Chili                  Canadian     False      199
+Spanakopita                         Greek        True       260
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Instance 1:
+Name: Apple
+Origin: Ethiopian
+Vegetarian: True
+Calories: 5
+
+Name: Water
+Origin: Ethiopian
+Vegetarian: True
+Calories: 10
+
+Name: Fish
+Origin: Ethiopian
+Vegetarian: True
+Calories: 0
+
+Instance 2: 
+Name: Apple
+Origin: Ethiopian
+Vegetarian: True
+Calories: 5
+
+Name: Water
+Origin: Ethiopian
+Vegetarian: True
+Calories: 10
+
+Name: Fish
+Origin: Ethiopian
+Vegetarian: True
+Calories: 0
+
+Instance 3:
+Name: Apple
+Origin: Ethiopian
+Vegetarian: True
+Calories: 5
+
+Name: Water
+Origin: Ethiopian
+Vegetarian: True
+Calories: 10
+
+Name: Fish
+Origin: Ethiopian
+Vegetarian: True
+Calories: 0
+-------------------------------------------------------

@@ -1,0 +1,33 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/Users/sushantksah/Documents/cp164/.metadata/.plugins/org.eclipse.core.resources/.projects/sahx0628_l03/com.python.pydev.analysis/v2_indexcache
+t01|1706335607557383110|/Users/sushantksah/Documents/cp164/sahx0628_l03/src/t01.py
+t03|1706334084543943541|/Users/sushantksah/Documents/cp164/sahx0628_l03/src/t03.py
+t02|1706332596845134258|/Users/sushantksah/Documents/cp164/sahx0628_l03/src/t02.py
+t05|1706334008240931273|/Users/sushantksah/Documents/cp164/sahx0628_l03/src/t05.py
+t04|1706333229968645032|/Users/sushantksah/Documents/cp164/sahx0628_l03/src/t04.py
+t06|1706335607376080697|/Users/sushantksah/Documents/cp164/sahx0628_l03/src/t06.py
+-- END DISKCACHE
+-- START DICTIONARY
+8
+5=/Users/sushantksah/Documents/cp164/sahx0628_l03/src/t03.py
+1=/Users/sushantksah/Documents/cp164/sahx0628_l03/src/t04.py
+7=/Users/sushantksah/Documents/cp164/sahx0628_l03/src/t05.py
+4=t01
+6=t03
+8=t05
+2=t04
+3=/Users/sushantksah/Documents/cp164/sahx0628_l03/src/t01.py
+-- END DICTIONARY
+-- START TREE 1
+6
+hig|2|highest_priority_value!1^21#1*19@highest_priority_value2!1^31#1*19@
+new|1|newnum!3^17#1*35@
+pq|2|pq!5^14#1*51@pq!1^14#1*19@
+pq2|1|pq2!1^25#1*19@
+q|2|q!3^15#1*35@q!7^15#1*67@
+sou|1|source!7^16#1*67@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

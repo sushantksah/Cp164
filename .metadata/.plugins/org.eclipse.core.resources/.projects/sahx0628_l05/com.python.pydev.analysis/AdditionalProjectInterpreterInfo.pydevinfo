@@ -1,0 +1,39 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/Users/sushantksah/Documents/cp164/.metadata/.plugins/org.eclipse.core.resources/.projects/sahx0628_l05/com.python.pydev.analysis/v2_indexcache
+functions|1707570913052514244|/Users/sushantksah/Documents/cp164/sahx0628_l05/src/functions.py
+t01|1707571188727919907|/Users/sushantksah/Documents/cp164/sahx0628_l05/src/t01.py
+t03|1707571280308211232|/Users/sushantksah/Documents/cp164/sahx0628_l05/src/t03.py
+t02|1707571210581982312|/Users/sushantksah/Documents/cp164/sahx0628_l05/src/t02.py
+t05|1707571347740598649|/Users/sushantksah/Documents/cp164/sahx0628_l05/src/t05.py
+t04|1707571313592552333|/Users/sushantksah/Documents/cp164/sahx0628_l05/src/t04.py
+t06|1707571407127742671|/Users/sushantksah/Documents/cp164/sahx0628_l05/src/t06.py
+-- END DISKCACHE
+-- START DICTIONARY
+10
+1=/Users/sushantksah/Documents/cp164/sahx0628_l05/src/functions.py
+2=functions
+8=t03
+9=/Users/sushantksah/Documents/cp164/sahx0628_l05/src/t05.py
+10=t05
+5=/Users/sushantksah/Documents/cp164/sahx0628_l05/src/t04.py
+6=t04
+3=/Users/sushantksah/Documents/cp164/sahx0628_l05/src/t06.py
+4=t06
+7=/Users/sushantksah/Documents/cp164/sahx0628_l05/src/t03.py
+-- END DICTIONARY
+-- START TREE 1
+9
+bag|2|bag_to_set!1^132#5*18@bag!3^14#1*35@
+bas|1|base!5^13#1*51@
+gcd|1|gcd!1^34#5*18@
+is_|1|is_palindrome!1^105#5*18@
+pow|1|power!5^14#1*51@
+rec|1|recurse!1^14#5*18@
+tes|2|test!7^14#1*67@test!9^14#1*83@
+to_|1|to_power!1^78#5*18@
+vow|1|vowel_count!1^54#5*18@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

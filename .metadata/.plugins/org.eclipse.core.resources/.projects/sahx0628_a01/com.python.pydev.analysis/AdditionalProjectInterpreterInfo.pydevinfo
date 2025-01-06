@@ -1,0 +1,55 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/Users/sushantksah/Documents/cp164/.metadata/.plugins/org.eclipse.core.resources/.projects/sahx0628_a01/com.python.pydev.analysis/v2_indexcache
+functions|1705210203037524948|/Users/sushantksah/Documents/cp164/sahx0628_a01/src/functions.py
+t01|1705211457169948751|/Users/sushantksah/Documents/cp164/sahx0628_a01/src/t01.py
+t03|1705211456977106470|/Users/sushantksah/Documents/cp164/sahx0628_a01/src/t03.py
+t02|1705211456824199095|/Users/sushantksah/Documents/cp164/sahx0628_a01/src/t02.py
+t05|1705211456510518048|/Users/sushantksah/Documents/cp164/sahx0628_a01/src/t05.py
+t04|1705211456197492380|/Users/sushantksah/Documents/cp164/sahx0628_a01/src/t04.py
+t07|1705211457468794542|/Users/sushantksah/Documents/cp164/sahx0628_a01/src/t07.py
+t06|1705211456361270737|/Users/sushantksah/Documents/cp164/sahx0628_a01/src/t06.py
+t09|1705211456015632332|/Users/sushantksah/Documents/cp164/sahx0628_a01/src/t09.py
+t08|1705211456657390804|/Users/sushantksah/Documents/cp164/sahx0628_a01/src/t08.py
+-- END DISKCACHE
+-- START DICTIONARY
+14
+2=functions
+14=t01
+1=/Users/sushantksah/Documents/cp164/sahx0628_a01/src/functions.py
+10=t03
+8=t02
+6=t05
+9=/Users/sushantksah/Documents/cp164/sahx0628_a01/src/t03.py
+4=t04
+12=t06
+11=/Users/sushantksah/Documents/cp164/sahx0628_a01/src/t06.py
+5=/Users/sushantksah/Documents/cp164/sahx0628_a01/src/t05.py
+3=/Users/sushantksah/Documents/cp164/sahx0628_a01/src/t04.py
+7=/Users/sushantksah/Documents/cp164/sahx0628_a01/src/t02.py
+13=/Users/sushantksah/Documents/cp164/sahx0628_a01/src/t01.py
+-- END DICTIONARY
+-- START TREE 1
+18
+cle|1|clean_list!1^14#5*18@
+dsm|1|dsmvwl!1^80#5*18@
+f|1|f!3^15#1*35@
+fil|1|file_analyze!1^103#5*18@
+fv|1|fv!3^16#1*35@
+is_|2|is_valid!1^168#5*18@is_leap_year!1^143#5*18@
+lea|1|leap_year!5^18#1*51@
+lis|1|list_subtraction!1^44#5*18@
+mat|2|matrixes_add!1^260#5*18@matrix_stats!1^224#5*18@
+max|1|max_diff!1^198#5*18@
+min|1|minuend!7^15#1*67@
+out|1|out!9^18#1*83@
+s|1|s!11^15#1*99@
+str|1|string!9^15#1*83@
+sub|1|subtrahend!7^18#1*67@
+val|1|values!13^16#1*115@
+w|1|w!3^27#1*35@
+yea|1|year!5^15#1*51@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

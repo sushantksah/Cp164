@@ -1,0 +1,34 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/Users/sushantksah/Documents/cp164/.metadata/.plugins/org.eclipse.core.resources/.projects/sahx0628_a02/com.python.pydev.analysis/v2_indexcache
+t01|1705813277489460427|/Users/sushantksah/Documents/cp164/sahx0628_a02/src/t01.py
+t03|1705813277201298231|/Users/sushantksah/Documents/cp164/sahx0628_a02/src/t03.py
+t02|1705812837425772357|/Users/sushantksah/Documents/cp164/sahx0628_a02/src/t02.py
+t05|1705813697193562876|/Users/sushantksah/Documents/cp164/sahx0628_a02/src/t05.py
+t04|1705850765058016193|/Users/sushantksah/Documents/cp164/sahx0628_a02/src/t04.py
+-- END DISKCACHE
+-- START DICTIONARY
+10
+10=t01
+4=t03
+6=t02
+8=t05
+9=/Users/sushantksah/Documents/cp164/sahx0628_a02/src/t01.py
+2=t04
+1=/Users/sushantksah/Documents/cp164/sahx0628_a02/src/t04.py
+7=/Users/sushantksah/Documents/cp164/sahx0628_a02/src/t05.py
+3=/Users/sushantksah/Documents/cp164/sahx0628_a02/src/t03.py
+5=/Users/sushantksah/Documents/cp164/sahx0628_a02/src/t02.py
+-- END DICTIONARY
+-- START TREE 1
+6
+all|1|all_foods!1^18#1*19@
+avg|2|avg_calories!3^26#1*35@avg_calories!5^21#1*51@
+cou|1|count!7^15#1*67@
+foo|8|food3!7^21#1*67@foods!7^22#1*67@foods!3^19#1*35@food!7^18#1*67@food2!7^20#1*67@foods!5^19#1*51@foods!9^19#1*83@food1!7^19#1*67@
+ori|3|origins!9^25#1*83@origin!9^22#1*83@origin!3^23#1*35@
+res|1|result!7^23#1*67@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

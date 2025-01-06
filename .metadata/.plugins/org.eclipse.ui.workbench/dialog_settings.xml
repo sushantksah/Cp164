@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ImportExportAction">
+		<item key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID" value="org.eclipse.ui.wizards.import.ZipFile"/>
+		<item key="ImportExportPage.STORE_SELECTED_EXPORT_WIZARD_ID" value="org.eclipse.ui.wizards.export.ZipFile"/>
+		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+		<list key="ImportExportPage.STORE_EXPANDED_EXPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+		<section name="ImportExportWizard.dialogBounds">
+			<item key="DIALOG_X_ORIGIN" value="607"/>
+			<item key="DIALOG_Y_ORIGIN" value="201"/>
+			<item key="DIALOG_WIDTH" value="586"/>
+			<item key="DIALOG_HEIGHT" value="550"/>
+			<item key="DIALOG_FONT_NAME" value="1|.AppleSystemUIFont|11.0|0|COCOA|1|.AppleSystemUIFont"/>
+		</section>
+	</section>
+	<section name="PreferencesImportWizard">
+		<item key="" value="/Users/sushantksah/Downloads/cp104_prefs.epf"/>
+		<list key="WizardPreferencesExportPage1.STORE_DESTINATION_NAMES_ID">
+			<item value="/Users/sushantksah/Downloads/cp104_prefs.epf"/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+	</section>
+	<section name="ZipFileImportWizard">
+		<item key="WizardZipFileResourceImportPage1.STORE_OVERWRITE_EXISTING_RESOURCES_ID" value="false"/>
+		<list key="WizardZipFileResourceImportPage1.STORE_SOURCE_NAMES_ID">
+			<item value="/Users/sushantksah/Downloads/sahx0628_badexamzip.zip"/>
+			<item value="/Users/sushantksah/sahx0628_badexamzip (1).zip"/>
+		</list>
+		<section name="ZipFileImportWizard.dialogBounds">
+			<item key="DIALOG_X_ORIGIN" value="607"/>
+			<item key="DIALOG_Y_ORIGIN" value="201"/>
+			<item key="DIALOG_WIDTH" value="691"/>
+			<item key="DIALOG_HEIGHT" value="550"/>
+			<item key="DIALOG_FONT_NAME" value="1|.AppleSystemUIFont|11.0|0|COCOA|1|.AppleSystemUIFont"/>
+		</section>
+	</section>
+	<section name="ZipFileExportWizard">
+		<item key="WizardZipFileResourceExportPage1.STORE_CREATE_STRUCTURE_ID" value="true"/>
+		<item key="WizardZipFileResourceExportPage1.STORE_COMPRESS_CONTENTS_ID" value="true"/>
+		<list key="WizardZipFileResourceExportPage1.STORE_DESTINATION_NAMES_ID">
+			<item value="/Users/sushantksah/Downloads/sahx0628_cp164e.zip"/>
+			<item value="/Users/sushantksah/Downloads/sahx0628_a10.zip"/>
+			<item value="/Users/sushantksah/Downloads/sahx0628_a09.zip"/>
+			<item value="/Users/sushantksah/Downloads/sahx0628_a08.zip"/>
+			<item value="/Users/sushantksah/Downloads/sahx0628_l09.zip"/>
+			<item value="/Users/sushantksah/Downloads/sahx0628_a07.zip"/>
+			<item value="/Users/sushantksah/Downloads/sahx0628_l08.zip"/>
+			<item value="/Users/sushantksah/Downloads/sahx0628_l07.zip"/>
+			<item value="/Users/sushantksah/Downloads/sahx0628_m.zip"/>
+			<item value="/Users/sushantksah/Downloads/sahx0628_a06.zip"/>
+			<item value="/Users/sushantksah/Downloads/sahx0628_l06.zip"/>
+			<item value="/Users/sushantksah/Downloads/sahx0628_a05.zip"/>
+			<item value="/Users/sushantksah/Downloads/sahx0628_l05.zip"/>
+			<item value="/Users/sushantksah/Downloads/sahx0628_a04.zip"/>
+			<item value="/Users/sushantksah/Downloads/sahx0628_l04.zip"/>
+			<item value="/Users/sushantksah/Downloads/sahx0628_a03.zip"/>
+			<item value="/Users/sushantksah/Downloads/sahx0628_l03.zip"/>
+			<item value="/Users/sushantksah/Downloads/sahx0628_a02.zip"/>
+			<item value="/Users/sushantksah/Downloads/sahx0628_l02.zip"/>
+			<item value="/Users/sushantksah/Downloads/sahx0628_a01.zip"/>
+		</list>
+		<section name="ZipFileExportWizard.dialogBounds">
+			<item key="DIALOG_X_ORIGIN" value="607"/>
+			<item key="DIALOG_Y_ORIGIN" value="201"/>
+			<item key="DIALOG_WIDTH" value="691"/>
+			<item key="DIALOG_HEIGHT" value="617"/>
+			<item key="DIALOG_FONT_NAME" value="1|.AppleSystemUIFont|11.0|0|COCOA|1|.AppleSystemUIFont"/>
+		</section>
+	</section>
+	<section name="org.eclipse.ui.internal.QuickAccess">
+		<item key="org.eclipse.ui.internal.quickaccess.QuickAccessDialogDIALOG_WIDTH" value="502"/>
+		<item key="org.eclipse.ui.internal.quickaccess.QuickAccessDialogDIALOG_HEIGHT" value="439"/>
+		<item key="org.eclipse.ui.internal.quickaccess.QuickAccessDialogDIALOG_USE_PERSISTED_SIZE" value="true"/>
+		<item key="org.eclipse.ui.internal.quickaccess.QuickAccessDialogDIALOG_USE_PERSISTED_LOCATION" value="false"/>
+		<list key="orderedElements">
+		</list>
+		<list key="orderedProviders">
+		</list>
+		<list key="textEntries">
+		</list>
+		<list key="textArray">
+		</list>
+	</section>
+	<section name="WorkbenchPreferenceDialog.dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="591"/>
+		<item key="DIALOG_Y_ORIGIN" value="162"/>
+		<item key="DIALOG_WIDTH" value="772"/>
+		<item key="DIALOG_HEIGHT" value="540"/>
+		<item key="DIALOG_FONT_NAME" value="1|.AppleSystemUIFont|11.0|0|COCOA|1|.AppleSystemUIFont"/>
+	</section>
+</section>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.templates.TemplatePreferencePage$EditTemplateDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="20"/>
+		<item key="DIALOG_Y_ORIGIN" value="14"/>
+		<item key="DIALOG_WIDTH" value="654"/>
+		<item key="DIALOG_HEIGHT" value="385"/>
+		<item key="DIALOG_FONT_NAME" value="1|.AppleSystemUIFont|11.0|0|COCOA|1|.AppleSystemUIFont"/>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="selection" value="curr"/>
+		<item key="wrap" value="true"/>
+		<item key="casesensitive" value="false"/>
+		<item key="wholeword" value="false"/>
+		<item key="incremental" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<list key="findhistory">
+			<item value="current"/>
+			<item value="target2"/>
+			<item value="target1"/>
+			<item value="targ"/>
+			<item value=" current"/>
+			<item value="fast_ptr"/>
+			<item value="slow_ptr"/>
+			<item value="values"/>
+			<item value="flipped"/>
+			<item value="pop"/>
+			<item value="linear_search"/>
+			<item value="linear"/>
+			<item value="intersection"/>
+			<item value="_linear_search"/>
+			<item value="append"/>
+		</list>
+		<list key="replacehistory">
+			<item value="curr"/>
+			<item value="t2"/>
+			<item value="t1"/>
+			<item value="idx2"/>
+			<item value="idx1"/>
+			<item value="nums"/>
+			<item value="finished"/>
+			<item value="maximum"/>
+			<item value="TenINT"/>
+			<item value="smurf"/>
+			<item value="done"/>
+			<item value="val"/>
+			<item value=""/>
+			<item value="prev"/>
+			<item value="DC"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="994"/>
+		<item key="DIALOG_Y_ORIGIN" value="226"/>
+		<item key="DIALOG_WIDTH" value="336"/>
+		<item key="DIALOG_HEIGHT" value="400"/>
+		<item key="DIALOG_FONT_NAME" value="1|.AppleSystemUIFont|11.0|0|COCOA|1|.AppleSystemUIFont"/>
+	</section>
+</section>

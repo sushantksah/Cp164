@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?pydev-testrun version="1.0"?><pydev-testsuite>
+    <summary errors="1" failures="0" finished="true" name="Test Run: 3" tests="0" total_time="Finished in: 0.00 secs."/>
+    <test location="/Users/sushantksah/Documents/cp164/sahx0628_a05/src/t02.py" status="error" test="t02" time="0">
+        <stdout/>
+        <stderr><![CDATA[Traceback (most recent call last):
+  File "/Users/sushantksah/.p2/pool/plugins/org.python.pydev.core_10.2.1.202307021217/pysrc/_pydev_runfiles/pydev_runfiles.py", line 460, in __get_module_from_str
+    mod = __import__(modname)
+          ^^^^^^^^^^^^^^^^^^^
+  File "/Users/sushantksah/Documents/cp164/sahx0628_a05/src/t02.py", line 30, in <module>
+    print("Get item:", food_list[0])
+                       ~~~~~~~~~^^^
+  File "/Users/sushantksah/Documents/cp164/sahx0628_data_structures/src/Sorted_List_array.py", line 62, in __getitem__
+    assert self._is_valid_index(i), 'Invalid index value'
+AssertionError: Invalid index value
+ERROR: Module: t02 could not be imported (file: /Users/sushantksah/Documents/cp164/sahx0628_a05/src/t02.py).
+]]></stderr>
+    </test>
+    <launch mode="run">
+        <launch_memento><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration local="true" path="sahx0628_a05 t02.py (1)"/>
+]]></launch_memento>
+    </launch>
+</pydev-testsuite>

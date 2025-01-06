@@ -1,0 +1,40 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/Users/sushantksah/Documents/cp164/.metadata/.plugins/org.eclipse.core.resources/.projects/sahx0628_l01/com.python.pydev.analysis/v2_indexcache
+t01|1705120003561089576|/Users/sushantksah/Documents/cp164/sahx0628_l01/src/t01.py
+t03|1705117671880723102|/Users/sushantksah/Documents/cp164/sahx0628_l01/src/t03.py
+t02|1705120003276552158|/Users/sushantksah/Documents/cp164/sahx0628_l01/src/t02.py
+t05|1705117671631278141|/Users/sushantksah/Documents/cp164/sahx0628_l01/src/t05.py
+t04|1705112544329341153|/Users/sushantksah/Documents/cp164/sahx0628_l01/src/t04.py
+t07|1705120809453843323|/Users/sushantksah/Documents/cp164/sahx0628_l01/src/t07.py
+t06|1705112544156751650|/Users/sushantksah/Documents/cp164/sahx0628_l01/src/t06.py
+-- END DISKCACHE
+-- START DICTIONARY
+14
+1=/Users/sushantksah/Documents/cp164/sahx0628_l01/src/t07.py
+5=/Users/sushantksah/Documents/cp164/sahx0628_l01/src/t06.py
+3=/Users/sushantksah/Documents/cp164/sahx0628_l01/src/t05.py
+7=/Users/sushantksah/Documents/cp164/sahx0628_l01/src/t04.py
+10=t01
+12=t03
+14=t02
+4=t05
+9=/Users/sushantksah/Documents/cp164/sahx0628_l01/src/t01.py
+8=t04
+2=t07
+6=t06
+11=/Users/sushantksah/Documents/cp164/sahx0628_l01/src/t03.py
+13=/Users/sushantksah/Documents/cp164/sahx0628_l01/src/t02.py
+-- END DICTIONARY
+-- START TREE 1
+6
+fil|3|file_variable!1^14#1*19@file_variable!3^14#1*35@file_variable!5^14#1*51@
+foo|2|foods!1^16#1*19@foods!5^15#1*51@
+lin|1|line!7^15#1*67@
+new|1|new_food!5^17#1*51@
+res|5|result5!3^16#1*35@result7!1^18#1*19@result1!9^14#1*83@result4!7^17#1*67@result3!11^14#1*99@
+s|1|s!13^14#1*115@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

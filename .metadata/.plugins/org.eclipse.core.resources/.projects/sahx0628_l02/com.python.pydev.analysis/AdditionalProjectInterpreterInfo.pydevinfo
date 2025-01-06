@@ -1,0 +1,29 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/Users/sushantksah/Documents/cp164/.metadata/.plugins/org.eclipse.core.resources/.projects/sahx0628_l02/com.python.pydev.analysis/v2_indexcache
+t03|1705738500146124559|/Users/sushantksah/Documents/cp164/sahx0628_l02/src/t03.py
+t02|1705738499380900908|/Users/sushantksah/Documents/cp164/sahx0628_l02/src/t02.py
+t05|1705738499696647214|/Users/sushantksah/Documents/cp164/sahx0628_l02/src/t05.py
+t04|1705738499171366824|/Users/sushantksah/Documents/cp164/sahx0628_l02/src/t04.py
+-- END DISKCACHE
+-- START DICTIONARY
+8
+1=/Users/sushantksah/Documents/cp164/sahx0628_l02/src/t05.py
+5=/Users/sushantksah/Documents/cp164/sahx0628_l02/src/t04.py
+7=/Users/sushantksah/Documents/cp164/sahx0628_l02/src/t03.py
+8=t03
+4=t02
+2=t05
+6=t04
+3=/Users/sushantksah/Documents/cp164/sahx0628_l02/src/t02.py
+-- END DICTIONARY
+-- START TREE 1
+4
+fh|1|fh!1^16#1*19@
+sou|3|source!1^18#1*19@source!3^17#1*35@source!5^16#1*51@
+sta|2|stack!3^16#1*35@stack!7^16#1*67@
+tar|1|target!7^17#1*67@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

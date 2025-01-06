@@ -1,0 +1,22 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/Users/sushantksah/Documents/cp164/.metadata/.plugins/org.eclipse.core.resources/.projects/sahx0628_l06/com.python.pydev.analysis/v2_indexcache
+t01|1708180533384852941|/Users/sushantksah/Documents/cp164/sahx0628_l06/src/t01.py
+t03|1708180337412749307|/Users/sushantksah/Documents/cp164/sahx0628_l06/src/t03.py
+t02|1708180337255950256|/Users/sushantksah/Documents/cp164/sahx0628_l06/src/t02.py
+t05|1708180533208041545|/Users/sushantksah/Documents/cp164/sahx0628_l06/src/t05.py
+t04|1708180337567206237|/Users/sushantksah/Documents/cp164/sahx0628_l06/src/t04.py
+t06|1708180337708679145|/Users/sushantksah/Documents/cp164/sahx0628_l06/src/t06.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+2=t01
+1=/Users/sushantksah/Documents/cp164/sahx0628_l06/src/t01.py
+-- END DICTIONARY
+-- START TREE 1
+1
+sho|1|shopping!1^14#1*19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

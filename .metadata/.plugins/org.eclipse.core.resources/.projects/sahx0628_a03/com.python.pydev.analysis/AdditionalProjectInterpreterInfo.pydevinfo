@@ -1,0 +1,49 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/Users/sushantksah/Documents/cp164/.metadata/.plugins/org.eclipse.core.resources/.projects/sahx0628_a03/com.python.pydev.analysis/v2_indexcache
+functions|1706415248792765680|/Users/sushantksah/Documents/cp164/sahx0628_a03/src/functions.py
+t01|1706415898765349708|/Users/sushantksah/Documents/cp164/sahx0628_a03/src/t01.py
+t03|1706416338054654662|/Users/sushantksah/Documents/cp164/sahx0628_a03/src/t03.py
+t02|1706415917421544640|/Users/sushantksah/Documents/cp164/sahx0628_a03/src/t02.py
+t05|1706416645273063310|/Users/sushantksah/Documents/cp164/sahx0628_a03/src/t05.py
+t04|1706416202032550373|/Users/sushantksah/Documents/cp164/sahx0628_a03/src/t04.py
+t07|1706418047602056727|/Users/sushantksah/Documents/cp164/sahx0628_a03/src/t07.py
+t06|1706416895756862442|/Users/sushantksah/Documents/cp164/sahx0628_a03/src/t06.py
+-- END DISKCACHE
+-- START DICTIONARY
+16
+7=/Users/sushantksah/Documents/cp164/sahx0628_a03/src/t05.py
+4=functions
+3=/Users/sushantksah/Documents/cp164/sahx0628_a03/src/functions.py
+2=t01
+14=t03
+16=t02
+8=t05
+12=t04
+6=t07
+10=t06
+15=/Users/sushantksah/Documents/cp164/sahx0628_a03/src/t02.py
+1=/Users/sushantksah/Documents/cp164/sahx0628_a03/src/t01.py
+5=/Users/sushantksah/Documents/cp164/sahx0628_a03/src/t07.py
+9=/Users/sushantksah/Documents/cp164/sahx0628_a03/src/t06.py
+11=/Users/sushantksah/Documents/cp164/sahx0628_a03/src/t04.py
+13=/Users/sushantksah/Documents/cp164/sahx0628_a03/src/t03.py
+-- END DICTIONARY
+-- START TREE 1
+12
+com|1|comb_stack!1^29#1*19@
+is_|1|is_palindrome_stack!3^58#5*34@
+maz|1|maze!5^17#1*51@
+ope|1|OPERATORS!3^15#1*35@
+pal|1|palindrome_tests!7^21#1*67@
+pat|1|path!5^18#1*51@
+pos|1|postfix!3^132#5*34@
+res|4|result!7^25#5*67@result_2!9^24#1*83@result_1!9^21#1*83@result_3!9^27#1*83@
+sou|2|source_stack!11^15#1*99@source!13^16#1*115@
+sta|7|stack2!1^17#1*19@stack_combine!3^20#5*34@stack1!15^15#1*131@stack_maze!3^91#5*34@stack_reverse!3^173#5*34@stack1!1^16#1*19@stack2!15^16#1*131@
+tar|1|target_stack!15^17#1*131@
+tes|1|test!9^19#1*83@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

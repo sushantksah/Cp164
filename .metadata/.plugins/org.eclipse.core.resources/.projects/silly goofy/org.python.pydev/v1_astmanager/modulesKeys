@@ -1,0 +1,9 @@
+MODULES_MANAGER_V3
+dasdasd|/Users/sushantksah/Documents/cp164/silly goofy/src/dasdasd.py
+src.BST_linked|/Users/sushantksah/Documents/cp164/silly goofy/src/src/BST_linked.py
+src.Deque_linked|/Users/sushantksah/Documents/cp164/silly goofy/src/src/Deque_linked.py
+src.List_linked|/Users/sushantksah/Documents/cp164/silly goofy/src/src/List_linked.py
+src.__init__|/Users/sushantksah/Documents/cp164/silly goofy/src/src|^
+src.test_BST|/Users/sushantksah/Documents/cp164/silly goofy/src/src/test_BST.py
+src.test_Deque|/Users/sushantksah/Documents/cp164/silly goofy/src/src/test_Deque.py
+src.test_List|/Users/sushantksah/Documents/cp164/silly goofy/src/src/test_List.py
